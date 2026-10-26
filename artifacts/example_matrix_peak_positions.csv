@@ -1,5 +1,0 @@
-﻿file_name,file_path,original_file_name,original_file_path,sheet,panel_number,matrix_row,matrix_column,panel_title,peak_id,peak_label,legend_label,legend_entry_enabled,peak_position_eV,position_source,position_note,center_stderr_eV,model,energy_shift_eV
-spectrum.csv,C:\Users\pedpu\AppData\Local\Temp\tmppl_jlb27\two\spectrum.csv,original_sample.xlsx,original_sample.xlsx,C 1s,1,1,1,spectrum,p1_,Main α,Main α,True,284.13,peak_summary,,1.221174190954014e-16,Gaussian,0.0
-spectrum.csv,C:\Users\pedpu\AppData\Local\Temp\tmppl_jlb27\two\spectrum.csv,original_sample.xlsx,original_sample.xlsx,C 1s,1,1,1,spectrum,p2_,Shoulder,Shoulder,True,287.21,peak_summary,,2.9701227226138363e-16,Gaussian,0.0
-spectrum.csv,C:\Users\pedpu\AppData\Local\Temp\tmppl_jlb27\one\spectrum.csv,original_sample.xlsx,original_sample.xlsx,C 1s,2,2,1,spectrum,p1_,Main α,Main α,True,284.13,peak_summary,,1.221174190954014e-16,Gaussian,0.0
-spectrum.csv,C:\Users\pedpu\AppData\Local\Temp\tmppl_jlb27\one\spectrum.csv,original_sample.xlsx,original_sample.xlsx,C 1s,2,2,1,spectrum,p2_,Shoulder,Edited shoulder,False,287.21,peak_summary,,2.9701227226138363e-16,Gaussian,0.0
